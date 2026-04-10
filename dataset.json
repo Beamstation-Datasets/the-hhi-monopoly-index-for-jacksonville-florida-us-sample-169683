@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Jacksonville, Florida, US",
+  "export_job_id": "ade35c16-0659-4d9d-aa9a-35ab5318fa56",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 169683,
+  "location_name": "Jacksonville",
+  "location_type": "city",
+  "repo_name": "the-hhi-monopoly-index-for-jacksonville-florida-us-sample-169683",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/169683/beamstation_169683_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_pct": 9.91,
+  "sample_records": 11,
+  "sample_sha256": "3b3d79dd409a259c7909323ea95d24d022a55391e7d71bf9742be0475d724955",
+  "sample_size_bytes": 61529,
+  "total_records": 111,
+  "updated_at": "2026-04-08T00:18:56.323064+00:00"
+}
