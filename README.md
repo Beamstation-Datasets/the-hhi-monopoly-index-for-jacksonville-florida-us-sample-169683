@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Jacksonville, Florida, US
 
-> Free BeamStation sample export with 11 rows and masked direct-contact fields.
+> Free BeamStation sample export with 9 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `169683` |
 | Location | Jacksonville |
 | Category | Restaurants |
-| Full dataset size | 111 records |
-| Free sample size | 11 records (9.91%) |
-| Last export | 2026-04-08T00:18:56.323064+00:00 |
+| Full dataset size | 92 records |
+| Free sample size | 9 records (9.78%) |
+| Last export | 2026-04-15T06:02:15.457675+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-jacksonville-florida-us-sample-169683/releases/download/sample-latest/beamstation_169683_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
