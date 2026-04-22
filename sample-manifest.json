@@ -1,12 +1,12 @@
 {
-  "export_job_id": "cc4f31d9-b6e9-47a7-9a7e-51ecba75a73f",
+  "export_job_id": "b2a5b89d-4efd-4d5c-95bc-f8a9f78e7115",
   "id_short": 169683,
-  "published_at": "2026-04-18T07:30:37Z",
+  "published_at": "2026-04-22T19:19:44Z",
   "repo_name": "the-hhi-monopoly-index-for-jacksonville-florida-us-sample-169683",
   "sample_asset_name": "beamstation_169683_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/169683/beamstation_169683_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 9,
-  "sample_sha256": "6e4d02021cc19c5da3476fa398a1eaeac12622db7bd42ac1d029c37eefeb531e",
-  "sample_size_bytes": 52462,
-  "total_records": 92
+  "sample_records": 2,
+  "sample_sha256": "541640027e8f77a3a93824af17c1e4be61fb4ebf825da4ffdb882176bb393be1",
+  "sample_size_bytes": 25656,
+  "total_records": 22
 }
